@@ -1,14 +1,14 @@
 # code_samples
-This repo is for some of the code samples from some major live projects.
+The code samples from a few significant active projects are housed in this repository.
 The sample files include:
- - Some API service file and Vendor service file based on APIs.
- - Some sidekiq job files.
- - Model and controller files.
+ - Several API service files and vendor service files.
+ - A few job files for sidekiq.
+ - The controller and model files.
 
-Sorry for not sharing the test files on Rspec, I'm not totally sure to share them with anyone without client's permission.
+I apologise for not providing the test files on Rspec; but, I'm not confident enough to do so without the client's consent.
 
-NOTE:
- - For the sake of client's project secruity I can't show a complete flow of codes so these are some random files choosen to show as sample codes.
- - Some of the codes from service files are removed on purpose.
+NOTE: 
+ - Because I am unable to display the entire flow of codes for the client's project, I have selected a few random files to serve as examples.
+ - Service files contain some codes that have been purposefully removed.
 
-Thank you for your consideration.
+I appreciate your consideration.
